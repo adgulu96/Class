@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-07T02:55:12Z" name="Default suite" finished-at="2023-01-07T02:55:21Z" duration-ms="8567">
+    <groups>
+    </groups>
+    <test started-at="2023-01-07T02:55:12Z" name="Default test" finished-at="2023-01-07T02:55:21Z" duration-ms="8567">
+      <class name="sparkReportExtentReport.ExtentSparkExtentReport">
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:sparkReportExtentReport.ExtentSparkExtentReport@46d59067]" started-at="2023-01-07T02:55:12Z" name="browserlaunch" finished-at="2023-01-07T02:55:15Z" duration-ms="2525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="login()[pri:0, instance:sparkReportExtentReport.ExtentSparkExtentReport@46d59067]" started-at="2023-01-07T02:55:15Z" name="login" finished-at="2023-01-07T02:55:20Z" duration-ms="5527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="check()[pri:1, instance:sparkReportExtentReport.ExtentSparkExtentReport@46d59067]" started-at="2023-01-07T02:55:20Z" name="check" finished-at="2023-01-07T02:55:20Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:sparkReportExtentReport.ExtentSparkExtentReport@46d59067]" started-at="2023-01-07T02:55:20Z" name="teardown" finished-at="2023-01-07T02:55:21Z" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- sparkReportExtentReport.ExtentSparkExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
